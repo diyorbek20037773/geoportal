@@ -8,6 +8,12 @@
 
 ---
 
+## 🎥 Loyiha MVP Versiyasi (Video Taqdimot)
+Loyihamizning qanday ishlashini quyidagi videoda ko'rishingiz mumkin (Videoni ko'rish uchun rasm ustiga bosing):
+
+[![GEOPORTAL MVP Video](https://img.youtube.com/vi/zLHMpYji_qU/maxresdefault.jpg)](https://youtu.be/zLHMpYji_qU)
+
+---
 ## 🚀 Loyiha Haqida
 
 Fuqarolar maktablar, bog'chalar, tibbiyot muassasalari, ichimlik suvi va ichki yo'llardagi real holat (muammolar) haqida ochiq xabar berishlari uchun qulay interfeys yaratildi. Hukumat va mas'ullar esa ushbu murojaatlarni va hududlarga ajratilgan byudjetlarning o'zlashtirilishini real vaqt rejimida tahlil qila oladilar.
